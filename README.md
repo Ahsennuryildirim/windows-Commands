@@ -11,11 +11,15 @@
 
 * Windows'taki **assoc** komutu, dosya uzantıları ile ilişkilendirilmiş dosya türlerini yönetmek için kullanılır. Bu komut, bir dosya uzantısının hangi program veya dosya türüyle ilişkilendirildiğini görmek ve değiştirmek için kullanılır. Ayrıca, yeni dosya uzantıları eklemek veya mevcut ilişkilendirmeleri değiştirmek için de kullanılabilir.
 
+![görsel](/assoc%20Komutu.JPG)
+
 ### **2.** **netstat** Komutu
 
 ---
 
 * Windows'taki **netstat** komutu, bilgisayarınızdaki ağ bağlantılarını ve ağ bağlantılarıyla ilgili istatistikleri görüntülemek için kullanılır. Bu komut, aktif ağ bağlantıları, yönlendirme tablosu, ağ arabirimleri ile ilgili bilgiler ve ağ protokollerinin durumu hakkında detaylı veri sağlar.
+
+![görsel](/Komutlar%20W/netstat%20Komutu.JPG)
 
 ### **3.** **net**  Komutu
 
@@ -24,6 +28,8 @@
 
 * Windows'taki **net** komutu, ağ yönetimi, kullanıcı hesapları, paylaşım ayarları ve diğer ağla ilgili işlemleri gerçekleştirmek için bir komuttur. Birçok alt komut ve seçenek içerir, bu da kullanıcıların ağ bağlantıları, kullanıcı hesapları ve diğer ağ hizmetlerini yönetmelerine olanak sağlar.
 
+![görsel](/Komutlar%20W/net%20Komutu.JPG)
+
 ### **4.** **hostname**  Komutu
 
 ---
@@ -31,11 +37,15 @@
 * Windows'taki **hostname** komutu, bilgisayarınızın ağdaki bilgisayar adını görüntülemek için kullanılır. Bu, bilgisayarınızın ağ üzerinde tanımlanan adı olup, genellikle ağda diğer cihazlarla iletişim kurarken kullanılır. 
 * Bu komut, bilgisayar adını hızlıca görmek için faydalıdır ve özellikle ağ yöneticileri için ağ yönetiminde sıkça kullanılır.
 
+![görsel](/Komutlar%20W/hostname%20Komutu.JPG)
+
 ### **5.** **tasklist** Komutu 
 
 ---
 * Windows'taki **tasklist** komutu, sistemde çalışan tüm işlemleri listelemek için kullanılır. Bu komut, aktif uygulamaları ve arka planda çalışan hizmetleri ayrıntılı bir şekilde gösterir ve işlem adları, işlem kimlikleri, bellek kullanımı gibi bilgileri sağlar.
 * tasklist, özellikle sistem yöneticileri ve ileri düzey kullanıcılar için güçlü bir araçtır.
+
+![görsel](/Komutlar%20W/tasklist%20Komutu.JPG)
 
 ### **6.** **set** Komutu
 
@@ -43,6 +53,8 @@
 
 * Windows'taki **set** komutu, çevresel değişkenleri görüntülemek, oluşturmak, düzenlemek ve silmek için kullanılır. Çevresel değişkenler, işletim sisteminde veya uygulamalarda sıkça kullanılan, sistemin genel durumunu ve yapılandırmasını belirleyen bilgi parçalarıdır.
 * Kalıcı değişiklikler için **setx** tercih edilmelidir.
+
+![görsel](/Komutlar%20W/set%20Komutu.JPG)
 
 ### **7.** **robocopy** Komutu
 
@@ -55,6 +67,8 @@
 * Belirli dosyaları hariç tutma veya filtreleme yapabilir.
 * Dizinlerin bir yansımasını oluşturabilir.
 
+![görsel](/Komutlar%20W/robocopy%20Komutu.JPG)
+
 ### **8.** **cipher** Komutu
 
 ---
@@ -62,11 +76,15 @@
 * Windows'taki **cipher** komutu, dosya ve dizinlerin şifrelenmesi ve şifrelemenin kaldırılması işlemlerini yönetmek için kullanılan bir araçtır. Bu komut, EFS kullanılarak NTFS dosya sistemi üzerinde dosyaların güvenliğini arttırmak için kullanılır. Ayrıca, disk üzerindeki boş alanı güvenli bir şekilde temizlemek gibi ek işlevlere de sahiptir.
 * Diskteki silinmiş verileri tamamen temizlemektedir.
 
+![görsel](/Komutlar%20W/cipher%20Komutu.JPG)
+
 ### **9.** **getmac** Komutu
 
 ---
 
 * Windows'taki **getmac** komutu, bilgisayarın MAC adreslerini ve bu adreslere bağlı ağ bağdaştırıcılarını görüntülemek için kullanılır. MAC adresi, bir ağ bağdaştırıcısına özgü 12 haneli bir kimlik numarasıdır ve ağ cihazlarını tanımlamak için kullanılır.
+
+![görsel](/Komutlar%20W/getmac%20Komutu.JPG)
 
 ### **10.** **fsutil** KOMUTU
 
@@ -74,6 +92,8 @@
 
 * Windows'taki **fsutil** komutu, dosya sistemi ve depolama birimleriyle ilgili gelişmiş işlemler yapmak için kullanılan bir araçtır. Bu komut genellikle sistem yöneticileri tarafından disk yönetimi, dosya sistemi bilgilerini sorgulama ve yapılandırma gibi teknik işlemler için kullanılır. fsutil, Windows'un yerleşik bir komutudur ve NTFS gibi modern dosya sistemleriyle uyumludur.
 * Küçük ve gizli sistem yapılandırmalarını ayarlamaktadır.
+
+![görsel](/Komutlar%20W/fsutil%20Komutu.JPG)
 
 ### **11.** **systeminfo** Komutu
 
@@ -89,6 +109,8 @@
       Ağ yapılandırması
       Sistem başlatma zamanı
 
+![görsel](/Komutlar%20W/systeminfo%20Komutu.JPG)
+
  ### **12.** **ping** Komutu
 
  ---
@@ -102,12 +124,15 @@
            Ağ sorunlarını teşhis etmek.
            Hedef cihazın çevrimdışı / çevrimiçi durumunu kontrok etmek.    
 
+![görsel](/Komutlar%20W/ping%20Komutu.JPG)
+
 ### **13.** **ipconfig** Komutu
 
 ---
 
 * Windows'taki **ipconfig** komutu, bilgisayarın ağ bağlantılarına ilişkin IP adresi, alt ağ maskesi, varsayılan ağ geçidi gibi bilgileri görüntülemek ve bazı ağ ayarlarını sıfırlamak için kullanılan bir ağ yapılandırma aracıdır.
-  
+
+![görsel](/Komutlar%20W/ipconfig%20Komutu.JPG)
 
 ### **14.** **dir** Komutu
 
@@ -122,6 +147,8 @@
    * **Belirli Türdeki Dosyaları Listeleme:** Dosya uzantısına göre filtreleme yaparak yalnızca belirli dosyaları gösterebilir.
    * **Alt Dizinleri Keşfetme:** Klasörlerin alt dizinlerini listelemek için kullanılabilir. 
 
+![görsel](/Komutlar%20W/dir%20Komutu.JPG)
+
 ### **15.** **tracert** Komutu
 
 ---
@@ -133,6 +160,7 @@
   * **Ağ Gecikmelerini Ölçme :** Her bir ara noktaya ulaşma süresi hakkında bilgi verir, bu da ağdaki gecikmeleri anlamaya yardımcı olur.
   * **Ağ Sorunlarını Tespit Etme :** Ağda bir tıkanıklık veya bağlantı problemi varsa, hangi ara noktada sorun olduğunu görmek mümkündür.
   
+  ![görsel](/Komutlar%20W/tracert%20Komutu.JPG)
 
 ### **16.** **vol** Komutu
 
@@ -144,6 +172,7 @@
  * **Disk Etiketi Görüntüleme :** Sürücünün adını veya etiketini gösterir.
  * **Sürücünün Dosya Sistemi Bilgilerini Görüntüleme:** Diskin dosya sistemi türü hakkında bilgi verir.
    
+   ![görsel](/Komutlar%20W/vol%20Komutu.JPG)
 
 ### **17.** **schtasks** Komutu
 
@@ -156,6 +185,7 @@
    * **Zamanlanmış Görevleri Görüntülemek:** Sistemdeki mevcut zamanlanmış görevleri listeleyebilirsiniz.
    * **Zamanlanmış Görevleri Yönetmek:** Zamanlanmış görevlerin başlatılmasını, durdurulmasını veya silinmesini sağlayabilirsiniz.
   
+![görsel](/Komutlar%20W/schtasks%20Komutu.JPG)
 
 ### **18.** **driverquery** Komutu
 
@@ -168,7 +198,7 @@
   * **Sürücü Bilgilerini Detaylı Görüntüleme :** Sürücülerin türü, dosya yolu, sürüm numarası gibi detaylı bilgileri gösterir.
   * **Sürücülerin Durumunu Kontrol Etme :** Sürücülerin ilgili olası sorunları belirlemek için sürücülerin durumu hakkında bilgi verir.
 
-
+![görsel](/Komutlar%20W/driverquery%20Komutu.JPG)
 
 
 ### **19.** **whoami** Komutu
@@ -177,7 +207,7 @@
 
 * Windows'taki **whoami** komutu, mevcut kullanıcı hesabının adını ve bilgisayara giriş yapan kullanıcının kimliğini görüntülemek için kullanılır. Bu komut, hangi kullanıcı olarak oturum açtığınızı hızlı bir şekilde öğrenmek için yararlıdır.
 
-
+![görsel](/Komutlar%20W/whoami%20Komutu.JPG)
 
 ### **20.** **net user** Komutu
 
@@ -185,13 +215,15 @@
 
 * Windows'taki **net user** komutu, bilgisayarınızdaki kullanıcı hesaplarını yönetmek için kullanılan bir komuttur. Bu komut, kullanıcı hesaplarını görüntülemek, oluşturmak, şifrelemek, değiştirmek ve silmek için çeşitli işlevler sunar. Hem yerel hem de ağdaki kullanıcı hesapları üzerinde işlem yapmanıza olanak tanır.
 
+![görsel](/Komutlar%20W/net%20user%20Komutu.JPG)
+
 ### **21.** **eventuwr** Komutu
 
 ---
 
 * Windows'taki **eventuwr** komutu, Event Viewer aracını komut satırından çalıştırmak için kullanılır. Event Viewer, Windows işletim sisteminde meydana gelen olayları (örneğin, hata mesajları, uyarılar, bilgi mesajları gibi) kaydeden ve bunları görüntüleyen bir araçtır. eventwr komutu, bu aracı başlatmak için kullanılır ve sistemin çeşitli bileşenleriyle ilgili olayları incelemenizi sağlar.
 
-
+![görsel](/Komutlar%20W/eventvwr%20Komutu.JPG)
 
 ### **22.** **taskmgr** Komutu
 
@@ -199,7 +231,7 @@
 
 * Windows'taki **taskmgr** komutu, Task Manager aracını başlatmak için kullanılır. Task Manager, bilgisayarınızdaki çalışan programları, işlemleri, sistem kaynaklarını ve daha fazlasını izlemek için kullanılan bir araçtır. Bu araç, sistem performansını izlemek, programları yönetmek, hata tespiti yapmak ve gerektiğinde zorla kapanan uygulamaları kapatmak için kullanılır.
 
-
+![görsel](/Komutlar%20W/taskmgr%20Komutu.JPG)
 
 ### **23.** **sc** Komutu
 
@@ -212,13 +244,15 @@
    * **Yeni Hizmet Oluşturma:** Sistemde yeni bir hizmet oluşturabilirsiniz.
    * **Hizmet Silme:** Artık ihtiyaç duyulmayan bir hizmeti silebilirsiniz.
 
+![görsel](/Komutlar%20W/sc%20Komutu.JPG)
+
 ### **24.** **ver** Komutu
 
 ---
 
 * Windows'taki **ver** komutu, sistemin mevcut işletim sistemi sürümünü ve bazı temel sürüm bilgilerini görüntülemek için kullanılır. Bu komut, genellikle sistem hakkında hızlı bilgi edinmek amacıyla kullanılır ve özellikle bir komut satırında veya betik (script) içinde kullanıcının işletim sistemi sürümünü bilmesi gerektiğinde faydalıdır.
 
-
+![görsel](/Komutlar%20W/ver%20Komutu.JPG)
 
 ### **25.** **mode** Komutları
 
@@ -227,7 +261,7 @@
 * Windows'taki **mode** komutu, sistemdeki çeşitli cihazlar ve donanımlar için yapılandırma ayarlarını değiştirmek veya görüntülemek amacıyla kullanılır. 
 * Özellikle monitör çözünürlüğü, yazıcı portu ayarları, seri port ve diğer giriş/çıkış cihazlarıyla ilgili yapılandırmalar için kullanılır.
 
-
+![görsel](/Komutlar%20W/mode%20Komutu.JPG)
 
 ### **26.** **arp** Komutu
 
@@ -237,6 +271,8 @@
 * ARP tablosunda hatalı veya eksik eşleşmeler varsa, bu komut, ağ bağlantı sorunlarını çözmek için kullanılır.
 * Bu komut, ağdaki cihazlar arasındaki IP-MAC eşleşmelerini görmek ve bu eşleşmeleri yönetmek için kullanılır.
 
+![görsel](/Komutlar%20W/arp%20Komutu.JPG)
+
 ### **27.** **pathping** Komutu 
 
 ---
@@ -245,7 +281,7 @@
 * pathping, bir ağdaki hedefe giden yol boyunca heer bir yönlendirici ve ağ cihazının performansını değerlendirir.
 * Bu komut, ağdaki bağlantı noktaları arasındaki kayıp oranlarını ve gecikmeleri göstererek ağ sorunlarını daha ayrıntılı bir şekilde analiz etmenizi sağlar.
 
-
+![görsel](/Komutlar%20W/pathping%20Komutu.JPG)
 
 ### **28.** **nbtstat** Komutu
 
@@ -255,6 +291,7 @@
 * nbtstat komutu, özellikle ağdaki NetBIOS adlarının, bilgisayarların ve paylaşılan kaynakların durumlarını incelemek için kullanılır.
 * nbtstat komutuyla, yerel NetBIOS adları ve IP eşleşmelerini içeren önbelleği temizleyebilirsiniz. Bu, ağdaki cihalarla ilgili eski veya yanlış kayıtların silimesine yardımcı olur.
   
+![görsel](/Komutlar%20W/nbtstat.JPG)
 
 ### **29.** **compact** Komutu
 
@@ -263,7 +300,7 @@
 * Windows'taki **compact** komutu, bir disk üzerindeki dosyaları ve klasörleri sıkıştırmak veya sıkıştırmayı kaldırmak için kullanılan bir araçtır. 
 * Bu komut, NTFS dosya sistemi üzerinde çalışan sıkıştırma özelliğini kullanır ve disk alanından tasarruf etmek için kullanılır. Sıkıştırılmış dosyalar ve klasörler, yine de normal şekilde kullanılabilir, ancak sıkıştırma işlemi sırasında biraz daha fazla işlemci gücü gerektirir.
 
-
+![görsel](/Komutlar%20W/compact%20Komutu.JPG)
 
 ### **30.** **tree** Komutu
 
@@ -272,3 +309,4 @@
 * Windows'taki **tree** komutu, bir dizin ve alt dizinlerin hiyerarşik yapısını grafiksel olarak göstermeye yarar.
 *  Bu komut, belirli bir klasörün içeriğini ve alt klasörlerini liste şeklinde görüntülemek için kullanılır. Özellikle bir dizindeki dosyaların ve klasörlerin yapısını hızlıca incelemek istediğinizde faydalıdır. 
 
+![görsel](/Komutlar%20W/tree.JPG)
